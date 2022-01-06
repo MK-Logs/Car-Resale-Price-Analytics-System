@@ -4,14 +4,16 @@ ResaleValue is a car resale price prediction system. It is a ML Web API that pre
   
 # API Demonstration - Using a Simple Website.
 
-## http://127.0.0.1:5000/
+## 127.0.0.1:5000/
   
 ![HomePageImg](/WebsiteScreenshots/HomePageImg.JPG)
   
-## http://127.0.0.1:5000/predict
+## 127.0.0.1:5000/predict
   
 ![PredictionPageImg1](/WebsiteScreenshots/PredictionPageImg1.JPG)
   
 ![PredictionPageImg2](/WebsiteScreenshots/PredictionPageImg2.JPG)
+  
+#### Prediction Based on Input.
   
 ![PredictionPageImg3](/WebsiteScreenshots/PredictionPageImg3.JPG)
